@@ -7,7 +7,7 @@ int liczba;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+
     Sleep(1000);
     srand(time(NULL));
 
@@ -15,7 +15,7 @@ int main()
     for (int i=1; i<=6; i++)
     {
         liczba = rand()%49+1;
-        cout << liczba <<"\a"<< endl;
+        cout << liczba << endl;
         Sleep(1000);
     }
 

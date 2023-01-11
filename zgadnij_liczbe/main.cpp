@@ -34,7 +34,7 @@ int main()
             cout << "mniej...\n";
         }
     }
-    cout << "BRAWO! Udalo Ci sie w "<<ileProb<< " probach";
+    cout << "BRAWO! Udalo Ci sie w "<<ileProb<< " probach\n";
     system("pause");
 
 
