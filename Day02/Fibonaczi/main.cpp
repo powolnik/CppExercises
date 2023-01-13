@@ -16,12 +16,12 @@ int main()
     {
         fib[i] = fib[i-1]+fib[i-2];
     }
-    //for (int i = 0; i<n; i++)
-    //{
-    //    cout<<"wyraz nr "<<i+1<<": "<<fib[i]<<endl;
-    //}
-    cout << fib[n-1]<<endl;
-    cout << fib[n-1]/fib[n-2];
+    for (int i = 0; i<n; i++)
+    {
+        cout<<"wyraz nr "<<i+1<<": "<<fib[i]<<endl;
+    }
+    //cout << fib[n-1]<<endl;
+    //cout << fib[n-1]/fib[n-2];
 
     return 0;
 }

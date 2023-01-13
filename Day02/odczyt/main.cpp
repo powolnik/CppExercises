@@ -26,23 +26,26 @@ int main()
         switch(NrLinii)
         {
         case 1:
+
             {
                 imie = linia;
             }
         break;
         case 2:
+
             {
                 nazwisko = linia;
             }
         break;
         case 3:
+
             {
                 NrTel = atoi(linia.c_str());
             }
         break;
         default:
             {
-                cout << "done";
+                cout << "done\n";
             }
         }
 
