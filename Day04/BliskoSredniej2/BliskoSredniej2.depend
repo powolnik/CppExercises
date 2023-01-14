@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1673733092 source:d:\praca\cpp\bliskosredniej2\main.cpp
+	<iostream>
+	<math.h>
+
