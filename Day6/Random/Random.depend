@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1674572047 source:d:\praca\cpp\random\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
